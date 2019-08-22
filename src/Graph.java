@@ -3,8 +3,6 @@ public abstract class Graph {
     private double S;//面积
    public final double π=3.14;//π
 
-   public Graph(){}
-   public Graph(int a,int h){}
    public abstract void Count();
 
     public double getS() {
